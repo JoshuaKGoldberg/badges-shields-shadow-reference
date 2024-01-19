@@ -1,0 +1,12 @@
+{
+  "name": "badges-shields-shadow-reference",
+  "version": "1.0.0",
+  "description": "Generates a comparison table for new badges/shields with shadows.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Josh Goldberg",
+  "license": "MIT",
+  "type": "module"
+}
